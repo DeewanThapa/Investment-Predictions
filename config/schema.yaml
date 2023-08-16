@@ -1,0 +1,11 @@
+columns:
+ - Date
+ - Close
+
+numerical_columns:
+ - Close
+
+drop_columns:
+ - Open
+ - High
+ - Low

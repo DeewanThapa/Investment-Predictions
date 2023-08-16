@@ -1,0 +1,22 @@
+cassandra-driver
+numpy
+dnspython
+httptools
+mypy-boto3-s3
+pip-chill
+pandas
+scikit-learn
+statsmodels
+pmdarima
+python-dotenv
+dill
+flask
+gunicorn
+types-s3transfer
+wincertstore
+uvicorn
+starlette
+setuptools
+pyyaml
+scipy
+-e .
